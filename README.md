@@ -42,6 +42,7 @@ The app **DOES NOT** host and contain movies and tv shows streaming links!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Surendhran1218/github/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Surendhran1218/github/tree/master/0010-regular-expression-matching) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surendhran1218/github/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Array
 |  |
@@ -60,4 +61,12 @@ The app **DOES NOT** host and contain movies and tv shows streaming links!
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surendhran1218/github/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Surendhran1218/github/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Surendhran1218/github/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
