@@ -42,6 +42,7 @@ The app **DOES NOT** host and contain movies and tv shows streaming links!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Surendhran1218/github/tree/master/0006-zigzag-conversion) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surendhran1218/github/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +51,13 @@ The app **DOES NOT** host and contain movies and tv shows streaming links!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surendhran1218/github/tree/master/0001-two-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surendhran1218/github/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surendhran1218/github/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surendhran1218/github/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
