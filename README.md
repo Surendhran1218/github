@@ -42,4 +42,12 @@ The app **DOES NOT** host and contain movies and tv shows streaming links!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Surendhran1218/github/tree/master/0006-zigzag-conversion) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Surendhran1218/github/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Surendhran1218/github/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
